@@ -8,13 +8,11 @@ using System.Windows.Forms;
 
 namespace Budgetiseur
 {
-    public partial class Form1 : Form
+    public partial class Appareil : UserControl
     {
-        public Form1()
+        public Appareil()
         {
             InitializeComponent();
         }
-
-
     }
 }

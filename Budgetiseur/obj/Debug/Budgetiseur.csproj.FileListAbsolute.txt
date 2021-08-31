@@ -1,0 +1,10 @@
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\bin\Debug\Budgetiseur.exe
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\bin\Debug\Budgetiseur.pdb
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.csproj.AssemblyReference.cache
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.Appareil.resources
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.Form1.resources
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.Properties.Resources.resources
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.csproj.GenerateResource.cache
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.csproj.CoreCompileInputs.cache
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.exe
+C:\Users\Cedric\Documents\Visual Studio 2019\Projects\Budgetiseur\Budgetiseur\obj\Debug\Budgetiseur.pdb
